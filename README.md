@@ -1,2 +1,2 @@
 # tfzhjk-jbjn
-uptated description
+ edited readme
